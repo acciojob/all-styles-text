@@ -1,4 +1,4 @@
-# Acciojob Assignment Solution Template Repo
+# All Styles Text Template Repo
 
 # Instructions  
 In this assignment, you need to use CSS to change the given html to look something like this:
